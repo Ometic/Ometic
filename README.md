@@ -34,7 +34,7 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Web illustrations by Storyset ( https://storyset.com/ ) --->
-<img align="left" alt="GIF" src="./assets/lofi-concept-cuate.svg" width="350px"/>
+<img align="left" alt="GIF" src="./assets/lofi-concept-cuate.svg" width="320px"/>
 <h2 align="center">📊 Github Stats</h2>
 
 <div align="right">
